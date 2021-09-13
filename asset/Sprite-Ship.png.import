@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/espace-violet-bleus.jpg-80a3ffe646feb27ba8ee148373dc5a62.stex"
+path="res://.import/Sprite-Ship.png-a223d4b03dd08b0d0ce9a9d6ffc8bebb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://espace-violet-bleus.jpg"
-dest_files=[ "res://.import/espace-violet-bleus.jpg-80a3ffe646feb27ba8ee148373dc5a62.stex" ]
+source_file="res://asset/Sprite-Ship.png"
+dest_files=[ "res://.import/Sprite-Ship.png-a223d4b03dd08b0d0ce9a9d6ffc8bebb.stex" ]
 
 [params]
 
