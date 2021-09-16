@@ -1,10 +1,8 @@
 using Godot;
 using System;
 
-public class player : Sprite
+public class move : KinematicBody2D
 {
-
-    public int HP = 3;
 
     // Void start
     public override void _Ready()
