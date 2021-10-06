@@ -44,7 +44,6 @@ public class player : Sprite
         }
 
         Position += velocity * delta;
-        Position = new Vector2 (Mathf.Clamp(Position.x, 0, screensize.x));
     }
 
 }
